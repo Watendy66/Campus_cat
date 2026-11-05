@@ -1,0 +1,34 @@
+# Unity generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/MemoryCaptures/
+/Recordings/
+
+# IDE and operating system files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.unityproj
+*.opendb
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Reports and local archives
+*.docx
+*.pdf
+*.zip
+*.log
+CampusRevision.command
+/文件校验.json

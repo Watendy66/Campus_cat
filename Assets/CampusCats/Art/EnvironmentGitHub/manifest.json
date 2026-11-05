@@ -1,0 +1,138 @@
+{
+  "repository": "petroulacl/fps-buildings-env-kit",
+  "commit": "1dd8e932402deb82422920df2e7fd079391e55d3",
+  "files": [
+    {
+      "path": "buildings/kenney-city-kit-suburban/License.txt",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/buildings/kenney-city-kit-suburban/License.txt",
+      "size": 706,
+      "sha256": "d778fa769a89a7d9f167bc337fdf8fc2144e47d9abb0c35eb6ad897c0ee24d0a"
+    },
+    {
+      "path": "buildings/kenney-city-kit-suburban/Models/FBX format/Textures/colormap.png",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/buildings/kenney-city-kit-suburban/Models/FBX%20format/Textures/colormap.png",
+      "size": 11784,
+      "sha256": "9b5de86078c25ef02351a80d35ff3c978693a1044565b73eedd9ae9b5b80665d"
+    },
+    {
+      "path": "buildings/kenney-city-kit-suburban/Models/FBX format/building-type-a.fbx",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/buildings/kenney-city-kit-suburban/Models/FBX%20format/building-type-a.fbx",
+      "size": 58032,
+      "sha256": "04512ed6761e63e04f9a3bf85a5c86d80dea3944c9b2401e66a523a6661d8d53"
+    },
+    {
+      "path": "buildings/kenney-city-kit-suburban/Models/FBX format/building-type-c.fbx",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/buildings/kenney-city-kit-suburban/Models/FBX%20format/building-type-c.fbx",
+      "size": 59056,
+      "sha256": "f556ffa40ac8d0e07e5b1cf1d36dadfccae28ac8d56d30964c331ab19e9cc269"
+    },
+    {
+      "path": "buildings/kenney-city-kit-suburban/Models/FBX format/building-type-h.fbx",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/buildings/kenney-city-kit-suburban/Models/FBX%20format/building-type-h.fbx",
+      "size": 44352,
+      "sha256": "fbba827b563a6360513b111255fbdfe1669b5e7c7a9cb9c72ca48e36dbb4f8b2"
+    },
+    {
+      "path": "buildings/kenney-city-kit-suburban/Models/FBX format/planter.fbx",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/buildings/kenney-city-kit-suburban/Models/FBX%20format/planter.fbx",
+      "size": 33792,
+      "sha256": "0569acd64c59c05ef1f0042b572affaf46792adffd72c69f77819c42a53f38b3"
+    },
+    {
+      "path": "buildings/kenney-city-kit-suburban/Models/FBX format/tree-large.fbx",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/buildings/kenney-city-kit-suburban/Models/FBX%20format/tree-large.fbx",
+      "size": 29520,
+      "sha256": "1a83b352e177f4cee8ae681358de21774a0736446c418b8ab586db24993d252f"
+    },
+    {
+      "path": "buildings/kenney-city-kit-suburban/Models/FBX format/tree-small.fbx",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/buildings/kenney-city-kit-suburban/Models/FBX%20format/tree-small.fbx",
+      "size": 29584,
+      "sha256": "7f76c0d1cef27c14f1cfbc3c214ef2dd276ab2d40189b01e499d2618d8e1aefb"
+    },
+    {
+      "path": "buildings/kenney-modular-buildings/License.txt",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/buildings/kenney-modular-buildings/License.txt",
+      "size": 720,
+      "sha256": "84002607f647b608c2861d8413bd9136a36d4063d74bf1af79347e3a012abeb5"
+    },
+    {
+      "path": "buildings/kenney-modular-buildings/Models/FBX format/Textures/colormap.png",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/buildings/kenney-modular-buildings/Models/FBX%20format/Textures/colormap.png",
+      "size": 7529,
+      "sha256": "66fd49be148f32e88f6c8cace67120250d1943a7856601158ad0ff24651db0b0"
+    },
+    {
+      "path": "buildings/kenney-modular-buildings/Models/FBX format/building-sample-house-a.fbx",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/buildings/kenney-modular-buildings/Models/FBX%20format/building-sample-house-a.fbx",
+      "size": 30640,
+      "sha256": "aaae50d0e61942449c933be323481258f40c65ee9242de1849216af4e6667189"
+    },
+    {
+      "path": "buildings/kenney-modular-buildings/Models/FBX format/building-sample-tower-a.fbx",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/buildings/kenney-modular-buildings/Models/FBX%20format/building-sample-tower-a.fbx",
+      "size": 32448,
+      "sha256": "78be8e0a5e5d76bf0808ddfb322439105dacc3927a8648fb646a899cfbc9a075"
+    },
+    {
+      "path": "environment/ground-textures/ambientcg/Bricks066_2K-JPG/Bricks066_2K-JPG_Color.jpg",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/environment/ground-textures/ambientcg/Bricks066_2K-JPG/Bricks066_2K-JPG_Color.jpg",
+      "size": 3402296,
+      "sha256": "af119d3f8d50d834b47e22bcbc68235f55f03fe36cb3bf8d336d9bd5d379bc1a"
+    },
+    {
+      "path": "environment/ground-textures/ambientcg/Bricks066_2K-JPG/Bricks066_2K-JPG_NormalGL.jpg",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/environment/ground-textures/ambientcg/Bricks066_2K-JPG/Bricks066_2K-JPG_NormalGL.jpg",
+      "size": 8976517,
+      "sha256": "854dc628fad3a7d7b14c02030c397480125f77090d2824827fe7a1ef90a9c645"
+    },
+    {
+      "path": "environment/ground-textures/ambientcg/Concrete012_2K-JPG/Concrete012_2K-JPG_Color.jpg",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/environment/ground-textures/ambientcg/Concrete012_2K-JPG/Concrete012_2K-JPG_Color.jpg",
+      "size": 5200455,
+      "sha256": "c6eb8d79df1d62268582f9696027f20803b8f172e607fa45a06f9629311594b3"
+    },
+    {
+      "path": "environment/ground-textures/ambientcg/Concrete012_2K-JPG/Concrete012_2K-JPG_NormalGL.jpg",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/environment/ground-textures/ambientcg/Concrete012_2K-JPG/Concrete012_2K-JPG_NormalGL.jpg",
+      "size": 8135857,
+      "sha256": "90eb7c080b4886709acdef834ef1bee17d44ae2a38d0055be1df957982dac0e5"
+    },
+    {
+      "path": "environment/ground-textures/ambientcg/Grass004_2K-JPG/Grass004_2K-JPG_Color.jpg",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/environment/ground-textures/ambientcg/Grass004_2K-JPG/Grass004_2K-JPG_Color.jpg",
+      "size": 7644307,
+      "sha256": "735b141c8f1972e70a45879424f1238fea9f887324173097785f4ac36e67e9a3"
+    },
+    {
+      "path": "environment/ground-textures/ambientcg/Grass004_2K-JPG/Grass004_2K-JPG_NormalGL.jpg",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/environment/ground-textures/ambientcg/Grass004_2K-JPG/Grass004_2K-JPG_NormalGL.jpg",
+      "size": 10015079,
+      "sha256": "15ccad231764049d6581a52076d02bb6b627df77895cb0508e4017d8a4877fef"
+    },
+    {
+      "path": "environment/skyboxes/polyhaven-hdri/kloppenheim_02_puresky_2k.hdr",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/environment/skyboxes/polyhaven-hdri/kloppenheim_02_puresky_2k.hdr",
+      "size": 5563538,
+      "sha256": "e06091a38c4c778b06123ba13dca8f2c91a21c13c14eec91048c5003815d21b8"
+    },
+    {
+      "path": "props/kenney-city-kit-roads/License.txt",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/props/kenney-city-kit-roads/License.txt",
+      "size": 717,
+      "sha256": "70d0b4ef26a341070faf76b058bcc5753925d6cf118420fd51c73957573f7b4d"
+    },
+    {
+      "path": "props/kenney-city-kit-roads/Models/FBX format/Textures/colormap.png",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/props/kenney-city-kit-roads/Models/FBX%20format/Textures/colormap.png",
+      "size": 8658,
+      "sha256": "ebbdaadf298f684ee534d0e63e2bdb223f7501da9fc13eb7bcdc94489162aca5"
+    },
+    {
+      "path": "props/kenney-city-kit-roads/Models/FBX format/light-square.fbx",
+      "url": "https://raw.githubusercontent.com/petroulacl/fps-buildings-env-kit/1dd8e932402deb82422920df2e7fd079391e55d3/props/kenney-city-kit-roads/Models/FBX%20format/light-square.fbx",
+      "size": 26688,
+      "sha256": "d22835048162a1ba8211ffeedb06940a4e4f5d06b4d30869dcceb8a87a5202f2"
+    }
+  ]
+}

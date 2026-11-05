@@ -1,0 +1,15 @@
+2026-11-04 校园猫猫：纸纹与背景音乐
+
+Paper001 / ambientCG / CC0 1.0
+原始页面 https://ambientcg.com/view?id=Paper001
+许可 https://docs.ambientcg.com/license/
+使用工程原有 Resources/PaperFiber.jpg，增强纤维对比及重复采样。
+允许使用、修改和分发，不强制署名；仍保留本记录。
+
+CampusMorning.mp3
+用户提供：莫奈花园-情书海#2Aut8w.mp3
+用于当前游戏背景音乐及本轮功能演示视频。
+没有将此音乐标记为开源或CC0，没有购买素材。
+SHA256 FACE073CAA12F2DF73F6DE3D12DC9465ED8DA46C59A19E3810E18B582B7806F7
+
+女性与猫模型仍沿用此前已记录的 Quaternius 资源与原始许可。

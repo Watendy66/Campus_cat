@@ -1,0 +1,13 @@
+# 本轮零费用素材
+Quaternius / Animal Pack Vol.2 / Cat.fbx
+来源 https://opengameart.org/content/animated-animales-low-poly
+发布页许可 CC0；发布页快照另存本次工作记录，原下载包保留于work/animals.zip。
+许可链接: http://creativecommons.org/publicdomain/zero/1.0/'
+
+ambientCG / Paper001 / 1K JPG Color
+来源 https://ambientcg.com/view?id=Paper001
+下载 https://ambientcg.com/get?file=Paper001_1K-JPG.zip
+许可 CC0 https://ambientcg.com/license
+仅游戏手账使用实物纸颜色贴图，米白染色。
+
+费用总计0元。用户参考图未作为模型、UV贴图或游戏素材分发。
